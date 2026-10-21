@@ -1,7 +1,9 @@
+import LandingPage from "./pages";
+
 const App = () => {
-  return ( 
-  <h1 className="font-vazir"> سایت دارینو
-  </h1> );
+  return ( <>
+    <LandingPage />
+  </> );
 }
  
 export default App;
